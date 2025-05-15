@@ -59,7 +59,7 @@
 
 ## 📧 お問い合わせ
 
-- **Github: motomasMINO**
+- **GitHub: motomasMINO**
 
 - **Email: yu120615@gmail.com**
 
