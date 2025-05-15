@@ -48,6 +48,7 @@
    git clone https://github.com/motomasMINO/PacMan-Java.git
 
    cd PacMan-Java
+　　```
 3. **アプリ起動**
    ```sh
    java -cp src App
