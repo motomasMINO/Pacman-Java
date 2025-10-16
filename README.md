@@ -1,9 +1,5 @@
 # PAC-MAN Java版
-<<<<<<< HEAD
-ナムコのアーケードゲーム「パックマン」をJava Swingを使用して作成してみました。
-=======
 ナムコのアーケードゲーム「パックマン」をSpring Bootを使用して再現してみました。
->>>>>>> 62a37e3 (Replace Swing app with Spring Boot app)
 
 ![タイトル](Screenshot1.JPG) 
 
@@ -55,21 +51,10 @@
 
 2. **リポジトリのクローン(ダウンロード)**
    
-   ターミナルまたはコマンドプロンプトで以下を実行:
-<<<<<<< HEAD
    ```sh
-   git clone https://github.com/motomasMINO/PacMan-Java.git
-
-   cd PacMan-Java
-3. **アプリ起動**
-   ```sh
-   java -cp src App
-※起動後すぐにゲームがスタートします。
-=======
-   ```bash
    git clone https://github.com/motomasMINO/Pacman-Java.git
+
    cd Pacman-Java
-   ```
 
 3. **アプリ起動**
    ```bash
@@ -80,7 +65,6 @@
    ```arduino
    http://localhost:8080
    ```
->>>>>>> 62a37e3 (Replace Swing app with Spring Boot app)
 
 ## 📜 ライセンス
 
