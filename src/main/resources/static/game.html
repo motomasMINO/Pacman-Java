@@ -23,8 +23,8 @@ const rows = 21;
 const boardWidth = cols * tileSize;   // 608
 const boardHeight = rows * tileSize;  // 672
 
-const canvas = document.getElementById('gameCanvas');
-const ctx = canvas.getContext('2d');
+const canvas = document.getElementById('gameCanvas'); // canvas要素を取得
+const ctx = canvas.getContext('2d'); // 2D描画コンテキストを取得
 canvas.width = boardWidth;
 canvas.height = boardHeight;
 
